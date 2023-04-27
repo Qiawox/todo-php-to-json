@@ -1,0 +1,144 @@
+.btn_create
+{
+  border: 2px solid #000;
+  background-color: transparent;
+  border-radius: 5px;
+  height: 58px;
+  width: 400px;
+  color: fuchsia;
+  cursor: pointer;
+}
+.btn_save
+{
+  border: 2px solid #000;
+  background-color: transparent;
+  border-radius: 5px;
+  height: 58px;
+  width: 400px;
+  color: fuchsia;
+  cursor: pointer;
+  margin-left: 50px;
+}
+.cmn
+{
+  margin: 0 auto;
+  text-align: center;
+}
+span
+{
+  width: 33%;
+  display: inline-block;
+}
+ .add_pod
+{
+  /* border: 2px solid #000;
+  background-color: transparent;
+  border-radius: 5px;
+  height: 58px;
+  width: 400px;
+  color: fuchsia;
+  cursor: pointer;
+  margin-bottom: 50px;
+  margin-top: 20px; */
+  border: none;
+  padding: 5px 10px;
+  background-color: chartreuse;
+  color: #fff;
+  border-radius: 5px;
+}
+.add_pod:hover
+{
+  transition: 0.3s all;
+  filter: brightness(0.8);
+}
+input
+{
+  background: #000;
+  border-radius: 5px;
+  color: #fff;
+  outline: none;
+  border: none;
+  padding: 5px;
+}
+.raz
+{
+  margin-bottom: 50px;
+}
+.out_inp
+{
+  width: 100%;
+}
+
+.bnt_edit
+{
+  background-color: cornflowerblue;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.btn_dlt
+{
+  background-color: red;
+  color: #fff;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 5px;
+}
+.bnt_edit:hover
+{
+  transition: 0.3s all;
+  filter: brightness(0.8);
+}
+.btn_dlt:hover
+{
+  transition: 0.3s all;
+  filter: brightness(0.8);
+}
+.form_exp
+{
+  display: inline-block;
+}
+.inp_num
+{
+  margin-left: 20px;
+}
+.tit_inp
+{
+  width: 49%;
+  display: inline-block;
+  text-align: left;
+}
+.ntn_2
+{
+  padding-left: 10px;
+}
+.contik
+{
+  display: inline-block;
+  width: 33%;
+}
+
+.add_podd
+{
+  display: flex;
+}
+.first_cont
+{
+  margin-top: 20px;
+}
+.cont3
+{
+  display: flex;
+}
+.cont4
+{
+  display: flex;
+  flex-direction: column;
+  flex: 2;
+}
+.cont4 div
+{
+  margin-top: 20px;
+  min-height: 50px;
+}
